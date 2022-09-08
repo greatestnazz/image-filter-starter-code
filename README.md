@@ -16,4 +16,5 @@ Specifications
 
 A screenshot of the elastic beanstalk application dashboard is included in a deployment_screenshot directory.
 
+Github URL: https://github.com/greatestnazz/image-filter-starter-code.git
 
